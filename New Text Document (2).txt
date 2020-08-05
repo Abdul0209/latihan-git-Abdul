@@ -1,0 +1,9 @@
+- Menginstall Git
+- Membuat Repository Baru
+- Konfigurasi  Git
+- Git Status
+- Git Commit
+- Change & Diff
+- Branch
+- Membuat Remote Repository
+- Push GitHub
